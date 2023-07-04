@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
+
 <!--
 **joseRibamar21/joseRibamar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
